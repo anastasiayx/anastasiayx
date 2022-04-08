@@ -12,4 +12,3 @@
 
 [![Years Badge](https://badges.pufler.dev/years/anastasiayx)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/anastasiayx)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/anastasiayx/git-badges)](https://badges.pufler.dev)
