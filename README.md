@@ -1,6 +1,8 @@
 ## Hi there, I am Anastasia👋
 
-💻 I code :weight_lifting_woman: I lift :cat: I love cats
+Code :computer:, Lift :weight_lifting_woman:, Repeat.
+</br>
+:cat: Lover
 
 ## My tech stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
