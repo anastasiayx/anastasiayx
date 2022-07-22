@@ -1,6 +1,6 @@
 ## Hi there, I am Anastasia👋
 
-Code :computer:, Lift :weight_lifting_woman:, Repeat.
+Code :computer:, Lift :weight_lifting_woman:, Repeat :repeat:.
 </br>
 :cat: Lover
 
