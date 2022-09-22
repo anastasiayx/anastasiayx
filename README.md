@@ -1,6 +1,6 @@
 ## Hi there, I am Anastasia👋
 
-Code :computer:, Lift :weight_lifting_woman:, Repeat :repeat:.
+Code :computer: Lift :weight_lifting_woman: Repeat :repeat:
 </br>
 :cat: Lover
 
@@ -9,8 +9,9 @@ Code :computer:, Lift :weight_lifting_woman:, Repeat :repeat:.
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-NodeJs-333?logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff)
@@ -18,8 +19,6 @@ Code :computer:, Lift :weight_lifting_woman:, Repeat :repeat:.
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=ffffff)
-
-
 ![Babel](https://img.shields.io/badge/-Babel-333?logo=babel)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm)
