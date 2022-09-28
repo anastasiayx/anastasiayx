@@ -1,8 +1,10 @@
 ## Hi there, I am Anastasia👋
 
-Code :computer: Lift :weight_lifting_woman: Repeat :repeat:
+:computer: Code <br/>
+:weight_lifting_woman: Lift<br/>
+:repeat: Repeat<br/>
 </br>
-:cat: Lover
+:cat: rules
 
 ## I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
